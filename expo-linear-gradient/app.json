@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-linear-gradient",
+    "slug": "expo-linear-gradient",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
